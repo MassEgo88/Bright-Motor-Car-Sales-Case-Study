@@ -6,7 +6,7 @@ This is my bright motor car sales analysis
 
 This project focuses on analyzing car sales data for **Bright Motors**, with the goal of uncovering key business insights that can improve sales performance, optimize inventory, and support strategic decision-making.
 
-The analysis was conducted as part of a case study, where I worked as a **Junior Data Analyst** to transform raw sales data into meaningful insights through data cleaning, SQL analysis, and dashboard visualization.
+The analysis was conducted as part of a case study, where I worked as a ** Data Analyst** to transform raw sales data into meaningful insights through data cleaning, SQL analysis, and dashboard visualization.
 
 ---
 
