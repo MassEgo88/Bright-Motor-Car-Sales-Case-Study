@@ -81,7 +81,7 @@ An interactive dashboard was created to present insights clearly and effectively
 
 ## View Interactive Dashboard
 
-
+https://spark-stat-studio.lovable.app
 
 ---
 
